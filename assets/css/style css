@@ -1,3 +1,17 @@
 .main-heading{
-  color:red
+  color:aqua;
+  background-color: #c7c7c7;
+  font-size: 28px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.heading-art{
+  color:fuchsia;
+  background-color: yellow;
+  
+}
+p{
+  font-size: 14px;
+  line-height: 1.5em;
+  font-family: ;
 }
